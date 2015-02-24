@@ -10,7 +10,7 @@ int main()
 {
    cout << "Please wait:" ;
    float w;
-   cin >> w ;
+   cin >> w;
    wait(w);
    cout << "Done\n" ;
    return 0;
